@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on my Android app.
 - 🌱 I’m currently learning React Js and Android development
-- 👯 I’m looking to collaborate on open source
+- 😄 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 
