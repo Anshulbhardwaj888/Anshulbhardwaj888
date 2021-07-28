@@ -1,4 +1,4 @@
-             ![Capture345](https://user-images.githubusercontent.com/77485368/127374443-dd88ce97-e144-4e75-a145-9bec6f6a6b85.PNG)
+   ![Capture345](https://user-images.githubusercontent.com/77485368/127374443-dd88ce97-e144-4e75-a145-9bec6f6a6b85.PNG)
 <h1 align="center">Hi 👋, I'm Anshul Bhardwaj</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
