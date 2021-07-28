@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
--⚡ Fun fact: I am also a gamer
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
