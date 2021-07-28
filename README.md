@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Anshul Bhardwaj</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
- <img align="right" alt="GIF" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Anshulbhardwaj888/Anshulbhardwaj888/blob/main/coding.gif" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulbhardwaj888&label=Profile%20views&color=0e75b6&style=flat" alt="anshulbhardwaj888" /> </p>
 
