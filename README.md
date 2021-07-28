@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulbhardwaj888&label=Profile%20views&color=0e75b6&style=flat" alt="anshulbhardwaj888" /> </p>
 
-- 📫 How to reach me **anshul123.124@gmail.com**
+- 📫 Contact me **anshul123.124@gmail.com**
 
 - 🔭 I’m currently working on my Android app.
 - 🌱 I’m currently learning React Js and Android development
