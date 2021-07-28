@@ -1,4 +1,4 @@
-![Volunteers (1)](https://user-images.githubusercontent.com/77485368/127379743-a80a5d64-594a-41c9-981f-040803f11621.png)
+![Volunteers (1)](https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c)
 
 
 <h1 align="center">Hi 👋, I'm Anshul Bhardwaj</h1>
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
--⚡ Fun fact **I am also a gamer**
+-⚡ Fun fact: I am also a gamer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
