@@ -9,7 +9,12 @@
 
 - 📫 How to reach me **anshul123.124@gmail.com**
 
-- ⚡ Fun fact **I am also a gamer**
+- 🔭 I’m currently working on my Android app.
+- 🌱 I’m currently learning React Js and Android development
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: He/Him
+-⚡ Fun fact **I am also a gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
