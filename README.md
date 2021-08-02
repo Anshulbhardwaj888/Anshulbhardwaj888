@@ -10,7 +10,7 @@
 
 - 📫 Contact me **anshul123.124@gmail.com**
 
-- 🔭 I’m currently working on my Android app.
+- 🔭 I’m currently working on my problem solving skills.
 - 🌱 I’m currently learning React Js and Android development
 - 😄 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
